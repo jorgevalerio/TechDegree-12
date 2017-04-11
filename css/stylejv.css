@@ -1,0 +1,132 @@
+/*
+<!--Custum CSS for JVsite -->
+
+ Coolors Exported Palette - coolors.co/
+13293d -- Yankees Blue
+006494 -- Sea Blue
+247ba0 --Lapi
+1b98e0 -- rightB
+e8f1f2 -- flash-white
+525252 -- Charcol
+
+$color1: hsla(209%, 53%, 16%, 1);
+$color2: hsla(199%, 100%, 29%, 1);
+$color3: hsla(198%, 63%, 38%, 1);
+$color4: hsla(202%, 78%, 49%, 1);
+$color5: hsla(186%, 28%, 93%, 1);
+
+$color1: rgba(19, 41, 61, 1);
+$color2: rgba(0, 100, 148, 1);
+$color3: rgba(36, 123, 160, 1);
+$color4: rgba(27, 152, 224, 1);
+$color5: rgba(232, 241, 242, 1);
+
+
+font-family: 'Istok Web', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Ropa Sans', sans-serif;
+font-family: 'Bangers', cursive;
+
+*/
+body {
+	background-color: #13293d;
+	color: #e8f1f2;
+	font-family: 'Lato', sans-serif;
+}
+.topmenucolor{
+	background-color:#e8f1f2;
+	color: #13293d; 
+}
+.jvcslider1{
+	width: 100%;
+	min-height: 70vh;
+	background: url('../img/main1v.jpg');
+	background-position: top;
+	background-size: cover;
+	padding-top: 10%;
+}
+.jvcslider2{
+	width: 100%;
+	background-color: #1b98e0;
+	color: white;
+}
+.contactjvc{
+	width: 100%;
+	background-color: #1b98e0;
+	color: white;	
+}
+.letters-logo {
+	font-family: 'Ropa Sans', sans-serif;
+}
+.jvcslider3{
+	background-color: #e8f1f2;
+	width: 100%;
+	min-height: 450px;
+}
+.jvcslider3 h1 {
+	color: #1b98e0 ;
+}
+.jvcslider3 img {
+	filter: grayscale(1);
+	-webkit-filter: grayscale(1);
+	-moz-filter: grayscale(1);
+	-o-filter: grayscale(1);
+	-ms-filter: grayscale(1);
+}
+.jvcslider3 img:hover {
+	filter: grayscale(0);
+	-webkit-filter: grayscale(0);
+	-moz-filter: grayscale(0);
+	-o-filter: grayscale(0);
+	-ms-filter: grayscale(0);
+}
+
+.jvcslider4{
+	width: 100%;
+}
+
+
+.topmenu{
+background-color: #ccc;
+}
+
+h1 {
+font-family: 'Bangers', cursive;
+font-weight: 400;
+}
+
+h3 {
+font-family: 'Bangers', cursive;
+}
+
+#videobackground {
+width: auto;
+height: auto;
+background-size: cover;
+	}
+
+.centervo{
+	display: flex;
+	min-height: 400px;
+  justify-content: center;
+  align-items: center;
+}
+
+.navybgcolor{
+	background-color: #13293d; 
+}
+
+.imagespointer{
+	cursor: pointer;
+}
+
+.portafoliomodal {
+	color: #525252;
+}
+.portafoliomodal h3 {
+	color: #1b98e0;
+}
+
+
